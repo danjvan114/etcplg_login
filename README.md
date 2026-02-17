@@ -1,2 +1,2 @@
-# bclogin
+# APP Login Html
 这个不是插件的文件，是插件登录APP统一登录调用的图形化界面
