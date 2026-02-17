@@ -1,2 +1,2 @@
 # bclogin
-This is a good login pulgin for minecraft paper server
+1.0版本，适配于1.21.8的paper服务器，其他我没试过，你自己试试
